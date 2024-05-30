@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1D3449-BA0B-47FD-BE70-DA951D81BBD6}|Spotify\\Spotify.csproj|c:\\users\\jjans\\onedrive - roc nijmegen\\2e leerjaar\\oop2\\spotify\\spotify\\spotify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1D3449-BA0B-47FD-BE70-DA951D81BBD6}|Spotify\\Spotify.csproj|solutionrelative:spotify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\Spotify\\Program.cs",
+              "RelativeDocumentMoniker": "Spotify\\Program.cs",
+              "ToolTip": "C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\Spotify\\Program.cs",
+              "RelativeToolTip": "Spotify\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:09:34.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
