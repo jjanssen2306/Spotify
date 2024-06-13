@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\Spotify\\Spotify.csproj",
-      "projectName": "Spotify",
-      "projectPath": "C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\Spotify\\Spotify.csproj",
+      "projectUniqueName": "C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\Spotify\\Spotivy.csproj",
+      "projectName": "Spotivy",
+      "projectPath": "C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\Spotify\\Spotivy.csproj",
       "packagesPath": "C:\\Users\\jjans\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\Spotify\\obj\\",
       "projectStyle": "PackageReference",
