@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Spotivy
 {
@@ -25,16 +26,14 @@ namespace Spotivy
                         {
                            Song.DisplayAllSongs();
                         }
-                        Console.WriteLine("do you want to search all songsy/n");
+                        Console.WriteLine("do you want to search all songs y/n");
                         String searchForSong = Console.ReadLine();
                         if (searchForSong.ToLower() == "y")
+                            
                         {
                         Console.WriteLine("Tiepe 1 to cearch for title ");
-                        Console.WriteLine("Tiepe 1 to cearch for  artist");
-                        Console.WriteLine("Tiepe 1 to cearch for  genre");
-                        
-
-
+                        Console.WriteLine("Tiepe 1 to cearch for artist");
+                        Console.WriteLine("Tiepe 1 to cearch for genre ");
                         }
                     }
 
@@ -52,7 +51,7 @@ namespace Spotivy
                     /* check artist, check artist's songs, check artist's albums */
                     break;
                 default:
-                    /* invalid answer */
+                    Console.WriteLine("invalid answer");
                     break;
             }
         }
