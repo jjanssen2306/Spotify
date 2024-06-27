@@ -10,7 +10,7 @@ namespace Spotivy
         public string Genre { get; set; }
 
 
-        private static List<Song> allSongs = new List<Song>();
+        private static List<Song> allsongs = new List<Song>();
 
         public Song(string title, string artists, string genre)
         {
@@ -31,18 +31,18 @@ namespace Spotivy
             string genre = Console.ReadLine();
 
             Song newSong = new Song(title, artists, genre);
-            allSongs.Add(newSong);
+            allsongs.Add(newSong);
 
             Console.WriteLine("New song created:");
-            Console.WriteLine($"Title: {title}, Artists: {artists}, Genre: {genre}");
+            Console.WriteLine("Title: " +title + " Artists: " + artists + " Genre: " +genre);
         }
 
         public static void DisplayAllSongs()
         {
             Console.WriteLine("All Songs:");
-            foreach (var song in allSongs)
+            foreach (var song in allsongs)
             {
-                Console.WriteLine($"Title: {song.Title}, Artists: {song.Artists}, Genre: {song.Genre}");
+                Console.WriteLine("Title: " + song.Title + " Artists: " + song.Artists + " Genre: " + song.Genre);
             }
         }
     }

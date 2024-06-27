@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA1D3449-BA0B-47FD-BE70-DA951D81BBD6}|Spotify\\Spotivy.csproj|C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\spotify\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1D3449-BA0B-47FD-BE70-DA951D81BBD6}|Spotify\\Spotivy.csproj|solutionrelative:spotify\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA1D3449-BA0B-47FD-BE70-DA951D81BBD6}|Spotify\\Spotivy.csproj|c:\\users\\jjans\\onedrive - roc nijmegen\\2e leerjaar\\oop2\\spotify\\spotify\\spotify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA1D3449-BA0B-47FD-BE70-DA951D81BBD6}|Spotify\\Spotivy.csproj|solutionrelative:spotify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA1D3449-BA0B-47FD-BE70-DA951D81BBD6}|Spotify\\Spotify.csproj|C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\spotify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA1D3449-BA0B-47FD-BE70-DA951D81BBD6}|Spotify\\Spotify.csproj|solutionrelative:spotify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA1D3449-BA0B-47FD-BE70-DA951D81BBD6}|Spotify\\Spotivy.csproj|c:\\users\\jjans\\onedrive - roc nijmegen\\2e leerjaar\\oop2\\spotify\\spotify\\spotify\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA1D3449-BA0B-47FD-BE70-DA951D81BBD6}|Spotify\\Spotivy.csproj|solutionrelative:spotify\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\Spotify\\Program.cs",
               "RelativeDocumentMoniker": "Spotify\\Program.cs",
               "ToolTip": "C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\Spotify\\Program.cs",
               "RelativeToolTip": "Spotify\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBAAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T08:19:48.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "song.cs",
               "DocumentMoniker": "C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\Spotify\\song.cs",
               "RelativeDocumentMoniker": "Spotify\\song.cs",
               "ToolTip": "C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\Spotify\\song.cs",
               "RelativeToolTip": "Spotify\\song.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCwAAAByAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T08:27:47.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jjans\\OneDrive - ROC Nijmegen\\2e leerjaar\\oop2\\Spotify\\Spotify\\Spotify\\Program.cs",
               "RelativeDocumentMoniker": "Spotify\\Program.cs",

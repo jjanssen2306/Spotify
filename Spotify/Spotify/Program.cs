@@ -26,15 +26,6 @@ namespace Spotivy
                         {
                            Song.DisplayAllSongs();
                         }
-                        Console.WriteLine("do you want to search all songs y/n");
-                        String searchForSong = Console.ReadLine();
-                        if (searchForSong.ToLower() == "y")
-                            
-                        {
-                        Console.WriteLine("Tiepe 1 to cearch for title ");
-                        Console.WriteLine("Tiepe 1 to cearch for artist");
-                        Console.WriteLine("Tiepe 1 to cearch for genre ");
-                        }
                     }
 
                     break;
